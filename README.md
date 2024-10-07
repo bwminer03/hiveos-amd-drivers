@@ -1,15 +1,18 @@
 .:PLACE HOLDER FOR PROJECT:.
 
-THIS PROJECT WITLL BRING UPDATED ROCm DRIVERS FOR HIVEOS
+THIS PROJECT WILL BRING UPDATED ROCm DRIVERS FOR HIVEOS
 
 CURRENT RELEASES BEING WORKED ON UBUNTU 20.04.6 ROCm 6.2
+
+<font size="12px"><i><b>Original Source:</b></i></font><br />
+<qoute>https://github.com/ROCm/ROCm/tree/roc-6.2.x</qoute>
 
 
 <font size="12px">export GPU_ARCHS="gfx1100;gfx1101;gfx1102;gfx1030;gfx1031;gfx1031;gfx1010"</font><br />
 
 <div class="table_component" role="region" tabindex="0">
 <table>
-    <h2><u>LLVM Supoorted Devices</u></h2><br />
+    <h2><u>LLVM Suported Devices</u></h2><br />
         <thead>
         <tr>
             <th>Model</th>
@@ -125,3 +128,11 @@ CURRENT RELEASES BEING WORKED ON UBUNTU 20.04.6 ROCm 6.2
         </tr>
     </tbody>
 </table>
+
+<font size="xsmall"><i><b>Donations:</b></i></font><br />
+I work on these projects in my free time, so if you enjoy the work think about giving a small donation.<br /><br />
+XEL : xel:gnvz5g36z8egnagdqhxaltd2nz8u8cnjgulkustgqzcesuqjkadsqrgdrwq<br />
+MEWC : MEHVvyVgw7j9drz4WBVgSid1gNp3YnTeui<br />
+SPR : spectre:qr4ytttc2lxtprlwlu40d37xh3vmaxen7mne3ar458dq63jegln95cnxrsgd3<br />
+
+<font size="10px">Missing Device? Reach out to bwminer03@gmail.com</font>
